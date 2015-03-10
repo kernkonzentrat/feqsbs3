@@ -1,0 +1,7 @@
+fe-qs-clean.sublime-project
+fe-qs-clean.sublime-workspace
+node_modules
+dist
+.tmp
+source/js/bower
+

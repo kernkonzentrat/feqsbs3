@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"filter",
+				"filter_search"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"format",
+				"format-list"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"de",
+				"destroy"
+			],
+			[
+				"sele",
+				"selector_overlay"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"ini",
+				"_initVideoGallery"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grunt/tasks/build.js",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grunt/tasks/default.js",
+			"settings":
+			{
+				"buffer_size": 429,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 13100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"rett",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"ac",
+				"Package Control: Install Package"
+			],
+			[
+				"ai",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rrush/Projects/syNERGY/fe-quickstarter-clean-bs3",
+		"/Users/rrush/Projects/syNERGY/fe-quickstarter-clean-bs3/grunt",
+		"/Users/rrush/Projects/syNERGY/fe-quickstarter-clean-bs3/grunt/tasks"
+	],
+	"file_history":
+	[
+		"/Users/rrush/Projects/syNERGY/fe-quickstarter-clean-bs3/fe-qs-clean.sublime-project",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/source/modules/tabs/less/tabs.less",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/source/modules/parallax/less/parallax.less",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/source/modules/feature/less/feature.less",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/source/styles/generic/global.less",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/source/styles/templates/tpl-productpage.less",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/source/styles/templates/tpl-tastepage.less",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/grunt/options/assemble.js",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/source/modules/teaser/less/teaser.less",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/styleguide/config_dist.md",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/styleguide/config_server.md",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/package.json",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/bower.json",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/grunt/options/handlebars.js",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/grunt/tasks/default.js",
+		"/Users/rrush/Projects/kia/pip/KIA_PIP_prototype_2.0/grunt/tasks/build.js",
+		"/Users/rrush/Projects/kia/press/Kia_Press_prototype_1.0/common/js/development/heroComponent/heroComponent.js",
+		"/Users/rrush/Projects/kia/press/Kia_Press_prototype_1.0/common/js/development/overviewSection/overviewSection.js",
+		"/Users/rrush/Projects/kia/press/Kia_Press_prototype_1.0/common/less/heroComponent/mobile.less",
+		"/Users/rrush/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/heroComponent/heroComponent.js",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/overviewSection/overviewSection.js",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/kia-press.js",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/footer/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/actionButtons/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/footer/tablet.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/actionButtons/tablet.less",
+		"/Users/rrush/Projects/kia/press/_svn/pages/videoGallery.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/includes/modelVideo.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/includes/modelPhoto.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/modelPressKit/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/header/header.js",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/heroComponent/tablet.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/photoGallery/tablet.less",
+		"/Users/rrush/Projects/kia/press/_svn/pages/pressKitDetails.shtml",
+		"/Users/rrush/Desktop/videoGallery.js",
+		"/Users/rrush/Projects/kia/press/_svn/includes/press-kit-hero-component.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/includes/hero-component.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/heroComponent/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/common.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/videoGalleryOverview/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/pressReleaseList/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/includes/header.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/PressRelease/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/PressFilter/pressRelaseListItem.js",
+		"/Users/rrush/Projects/kia/press/_svn/pages/pressReleaseList.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/modelPressList/pressReleaseList.js",
+		"/Users/rrush/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/rrush/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/actionButton/actionButton.js",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/photoGallery/desktop.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/PressRelease/desktop.less",
+		"/Users/rrush/Desktop/20150218-pressKitDetails-update.txt",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/theme.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/photoGallery/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/videoGallery/videoGallery.js",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/videoGalleryOverview/tablet.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/videoGalleryOverview/flowplayer-skin-minimalistic.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/header/header.js.mine",
+		"/Users/rrush/Projects/kia/pip/prototype/source/modules/feature/js/feature.js",
+		"/Users/rrush/Projects/kia/press/_svn/pages/videoGalleryOverview.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/videoGalleryOverview/desktop.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/videoGalleryOverview/flowplayer-custom.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/css/development/flowplayer.min.css",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/videoGalleryOverview/flowplayer.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/js/development/plugins.js",
+		"/Users/rrush/Projects/kia/pip/prototype/source/modules/feature/less/feature.less",
+		"/Users/rrush/Projects/kia/pip/prototype/source/modules/feature/feature.hbs",
+		"/Users/rrush/Projects/kia/press/kia-press.sublime-project",
+		"/Users/rrush/Projects/kia/press/_svn/svn-prop.tmp",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/photoGalleryOverview/mobile.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/photoGalleryOverview/tablet.less",
+		"/Users/rrush/Projects/kia/press/_svn/common/less/photoGalleryOverview/desktop.less",
+		"/Users/rrush/Projects/kia/press/_svn/pages/photoGalleryOverview.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/.svn/tmp/desktop.less.tmp",
+		"/Users/rrush/Projects/kia/press/_svn/.svn/tmp/tablet.less.tmp",
+		"/Users/rrush/Projects/kia/press/_svn/Gruntfile.js",
+		"/Users/rrush/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/etc/hosts",
+		"/Users/rrush/Projects/kia/press/_svn/includes/pressRelease.shtml",
+		"/Users/rrush/Projects/kia/press/_svn/package.json",
+		"/Users/rrush/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/rrush/Projects/kia/press/_svn/pages/index.html",
+		"/Users/rrush/.bash_profile",
+		"/Users/rrush/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rrush/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rrush/Projects/kia/press/Kia_Press_prototype_1.0/common/less",
+			"/Users/rrush/Projects/kia/press/Kia_Press_prototype_1.0",
+			"/Users/rrush/Projects/kia/press/Kia_Press_prototype_1.0/common",
+			"/Users/rrush/Projects/kia/press/_svn/common/js/development",
+			"/Users/rrush/Projects/kia/press/_svn/common/less",
+			"/Users/rrush/Projects/kia/press/_svn/pages",
+			"/Users/rrush/Projects/kia/press/_svn/includes",
+			"/Users/rrush/Projects/kia/press/_svn/common/js",
+			"/Users/rrush/Projects/kia/press/_svn/common/less",
+			"/Users/rrush/Projects/kia/press/_svn/common/less/photoGallery",
+			"/Users/rrush/Projects/kia/press/_svn/common/less",
+			"/Users/rrush/Projects/kia/press/_svn/common",
+			"/Users/rrush/Projects/kia/press/_svn/common/less",
+			"/Users/rrush/Projects/kia/press/_svn",
+			"/Users/rrush/Projects/kia/press/_svn/common/less",
+			"/Users/rrush/Projects/kia/press/_svn/common/less/photoGallery",
+			"/Users/rrush/Projects/kia/press/_svn/includes",
+			"/Users/rrush/Projects/kia/press/_svn/common/js/development"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handle",
+			"mobile-overviewHeading",
+			"comment",
+			"super+1",
+			"data-section-type",
+			"overview-list-div",
+			"hero-Press-kit-overview-list",
+			"mobile-overviewHeading",
+			"click(",
+			"+ ",
+			".mobile-overviewHeading",
+			".ftr-followus",
+			"image-gallery-div-video-wrapper",
+			"s-overlay-trigger",
+			"js-overlay-trigger",
+			"image-gallery-div-video-wrapper",
+			"image-gallery-div",
+			"example-image-link-video-wrapper",
+			".example-image-link-video-wrapper",
+			".example-image-link",
+			"s._trackEvent",
+			"(s._trackEvent(\"Video / Seconds played\")",
+			"video",
+			"svg,",
+			"img,",
+			"                img,\n                svg,\n                video",
+			"a,",
+			"a",
+			".aspect-ratio",
+			".filter-icon-container",
+			"pressListFilterWrapper",
+			"filterWrapper",
+			"filter-icon",
+			".filter",
+			"filter",
+			"$(this).parents('.action-button')",
+			"$parent",
+			"image-gallery-div",
+			".download-icon",
+			".donwload-icon",
+			"& ",
+			"    .",
+			".",
+			".gallery",
+			"noscroll",
+			"fullscreen",
+			"typeof $.publish !== 'undefined'",
+			"@spriteResourcesPath",
+			"ajax-loader",
+			"ajax-laoder",
+			"url",
+			"\"",
+			"assets/images/",
+			"flowplayer",
+			"div",
+			"background-visibility",
+			"background",
+			"a,",
+			".feature__video-player ",
+			".feature",
+			"\n.video-gallery",
+			"\"feature__",
+			"example-image-link",
+			"final_1_",
+			"assets",
+			"video",
+			"/eu/-/media/eu-press-redesign/photo%20gallery/models/carens/kia_carens_03_2013_1814.jpg",
+			"                            <div class=\"image-gallary-inner-div\">\n                                <a href=\"videoGallery.shtml\">\n                                    <img class=\"example-image\" width=\"auto\" height=\"auto\" src=\"http://press.accept.eu.kia.com/eu/-/media/eu-press-redesign/photo gallery/models/gallerylogo.jpg\" alt=\"\">\n                                    <span class=\"img-gallery-model hidden-xs\"></span>\n                                    <div class=\"red-arrow-right-lg visible-xs\"></div>\n                                </a>\n                            </div>",
+			"car-photos.png",
+			"innerAnc",
+			"red-arrow-",
+			"show",
+			".icon",
+			".display-status-count",
+			".bottom",
+			"bottom",
+			"bootm",
+			"load-more",
+			"load",
+			"Model Galleries",
+			"Model",
+			"model gall",
+			"http://press.accept.eu.kia.com/eu/imagelibrary/products/ceed%20sportswagon%202012/",
+			"http://press.accept.eu.kia.com/eu/imagelibrary/products/ceedsw2009/",
+			"http://press.accept.eu.kia.com/eu/imagelibrary/products/ceed%202012/",
+			"http://press.accept.eu.kia.com/eu/imagelibrary/products/ceed2009/",
+			"http://press.accept.eu.kia.com/eu/imagelibrary/products/carens%202013/",
+			"http://press.accept.eu.kia.com/eu/imagelibrary/products/carens/",
+			"http://press.accept.eu.kia.com/eu/imagelibrary/products/test-carens/",
+			"a href",
+			"<a href=\"http://press.accept.eu.kia.com/eu/imagelibrary/products/ceed%202012/\">",
+			"href=\"http://press.accept.eu.kia.com/eu/imagelibrary/products/test-carens/\"",
+			"/assets/",
+			"neo",
+			"font-family",
+			"!important",
+			".img-gallery-div",
+			".img-gallery-model",
+			"spriteResourcesPath",
+			".red-arrow-right-lg",
+			"'",
+			"http://press.accept.eu.kia.com/eu/-/media/eu-press-redesign/test-press-images/test-5.jpg",
+			"http://press.accept.eu.kia.com/eu/-/media/eu-press-redesign/test-press-images/muddy_sportage.jpg",
+			"/eu/",
+			"/eu",
+			"/eu/imagelibrary",
+			"float: left;",
+			"/eu/-/media/eu-press-redesign/photo%20gallery/models/carens/1148372692%209_%20_carens_%20_auto_air_con_%20_high.jpg",
+			"SampleModule",
+			"snqs",
+			"image-gallery-div",
+			"'",
+			"=\"\"",
+			"super+1",
+			"command+1"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "grunt/tasks/build.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "grunt/tasks/default.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "fe-qs-clean-bs3.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 696.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
