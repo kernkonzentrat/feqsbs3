@@ -6,7 +6,7 @@ module.exports = {
         layoutdir: '<%= config.src %>/layouts',
         data:      '<%= config.src_modules %>/**/data/*.{json,yml}',
         partials: [
-            '<%= config.src_modules %>/{,*/}*.hbs',
+            '<%= config.src_modules %>/**/*.hbs',
             '<%= config.src_assets %>/images/svg{,*/}*.svg'
         ]
     },
