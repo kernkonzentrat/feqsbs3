@@ -1,5 +1,5 @@
-fe-qs-clean.sublime-project
-fe-qs-clean.sublime-workspace
+*.sublime-*
+*.sublime-*
 node_modules
 dist
 .tmp
