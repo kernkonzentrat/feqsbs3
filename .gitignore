@@ -1,7 +1,7 @@
 *.sublime-*
 *.sublime-*
 node_modules
-dist
+./dist
 .tmp
 source/js/bower
 
