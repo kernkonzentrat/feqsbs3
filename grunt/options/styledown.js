@@ -1,4 +1,4 @@
-// https://github.com/indieisaconcept/grunt-styleguide -  CSS styleguide generator
+// https://github.com/drakeh/grunt-styledown -  Grunt plugin to generate style guides via Styledown
 module.exports = {
     options: {
         title: 'SN FE Quickstarter Styleguide'
