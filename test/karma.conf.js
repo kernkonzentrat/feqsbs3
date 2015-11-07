@@ -14,7 +14,7 @@ module.exports = function(config) {
         basePath: '../',
 
         // testing framework to use (jasmine/mocha/qunit/...)
-        frameworks: ['jasmine'],
+        frameworks: ['jasmine-ajax', 'jasmine-jquery', 'jasmine'],
 
         // list of files / patterns to load in the browser
         files: [],
@@ -23,7 +23,7 @@ module.exports = function(config) {
         exclude: [],
 
         reporters: [
-            'dots'
+            'html'
         ],
 
         // web server port
@@ -42,9 +42,13 @@ module.exports = function(config) {
         ],
 
         // Which plugins to enable
-        plugins: [
+        plugins: [,
+            'karma-jasmine-ajax',
             'karma-jasmine',
-            'karma-phantomjs-launcher'
+            'karma-phantomjs-launcher',
+            'karma-spec-reporter',
+            'karma-jasmine-html-reporter',
+            'karma-jasmine-jquery'
         ],
 
         // Continuous Integration mode

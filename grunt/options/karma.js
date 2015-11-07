@@ -9,6 +9,7 @@ module.exports = {
                 '<%= config.src %>/js/bower/jquery/dist/jquery.min.js',
                 '<%= config.src %>/js/*.js',
                 '<%= config.src_modules %>/**/*.js',
+                '<%= config.test %>/fixtures/*-fixtures.html',
                 '<%= config.test %>/spec/*.spec.js'
             ]
         }

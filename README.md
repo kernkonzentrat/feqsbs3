@@ -26,7 +26,7 @@
 The dependencies can be adjusted via the command line or directly in the related *bower.json* file.
 
 ## <a name="user-content-grunt-commands"></a>Grunt Commands
-1. __*$ grunt*__ starts a node webserver with live reload for development purposes on http://0.0.0.0:9001/
+1. __*$ grunt*__ starts a node webserver with live reload for development purposes on http://localhost:9001/
 2. __*$ grunt dist*__ creates a production ready version of the project in the dist folder. this version can be used for client demos, internal feedback...
 3. __*$ grunt delivery*__ runs the distribution task and puts all of the output in a ZIP archive with an incremental version number
 5. __*$ grunt karma:unit*__ fire up karma test runner to execute unit tests 
